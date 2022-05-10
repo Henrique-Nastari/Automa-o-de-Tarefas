@@ -82,7 +82,3 @@ pyautogui.hotkey("ctrl", "enter") #envia o e-mail
 
 
 # In[ ]:
-
-
-
-
